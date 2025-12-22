@@ -1,8 +1,12 @@
-## Hi there 👋
+## Hi there , I'm Khushi Nain!
 
 <!--
 **Khushi1718/Khushi1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ABOUT ME 
+- 🎓 B.Tech CSE student  
+- 💡 Interested in  DSA,WEB DEV and AI/ML  
+- 🧠 Currently practicing Data Structures & Algorithms  
+- 🌱 Learning Backend Development
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -10,7 +14,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 let's connect: ...
+LinkedIn: https://linkedin.com/in/your-link
+E-mail : khushinain78@gmail.com
+Codlio :https://codolio.com/profile/KhushiNain1718
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
