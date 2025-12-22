@@ -1,23 +1,25 @@
-## Hi there , I'm Khushi Nain!
+## Hi there, I'm Khushi Nain 👋
 
-<!--
-**Khushi1718/Khushi1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-ABOUT ME 
-- 🎓 B.Tech CSE student  
-- 💡 Interested in  DSA,WEB DEV and AI/ML  
-- 🧠 Currently practicing Data Structures & Algorithms  
-- 🌱 Learning Backend Development
-Here are some ideas to get you started:
+🎓 **B.Tech CSE Student**  
+💡 Interested in **DSA, Web Development & AI/ML**  
+🧠 Currently practicing **Data Structures & Algorithms**  
+🌱 Learning **Backend Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 let's connect: ...
-LinkedIn: https://linkedin.com/in/your-link
-E-mail : khushinain78@gmail.com
-Codlio :https://codolio.com/profile/KhushiNain1718
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 About Me
+- Passionate about problem-solving and building real-world projects
+- Exploring backend systems and scalable architectures
+- Actively improving DSA skills
+
+---
+
+## 🔗 Connect With Me
+- 💼 **LinkedIn:** https://linkedin.com/in/your-link  
+- 📧 **Email:** khushinain78@gmail.com  
+- 💻 **Codolio:** https://codolio.com/profile/KhushiNain1718  
+
+---
+
+## ⚡ Fun Fact
+- I enjoy breaking down complex concepts into simple logic 🚀
