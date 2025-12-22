@@ -15,7 +15,7 @@
 ---
 
 ## 🔗 Connect With Me
-- 💼 **LinkedIn:** https://linkedin.com/in/your-link  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/khushi-nain17/
 - 📧 **Email:** khushinain78@gmail.com  
 - 💻 **Codolio:** https://codolio.com/profile/KhushiNain1718  
 
