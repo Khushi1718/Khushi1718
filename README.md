@@ -3,7 +3,7 @@
 🎓 **B.Tech CSE Student**  
  Interested in **DSA, Web Development & AI/ML**  
  Currently practicing **Data Structures & Algorithms**  
- Learning **Backend Development**
+ Making interactive websites!!
 
 ---
 
